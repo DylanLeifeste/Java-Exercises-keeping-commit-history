@@ -59,7 +59,7 @@ public class StringsLecture {
         String trimmedVersion = trimThis.trim();
         System.out.println(trimmedVersion);
 
-        // How would we fix this?
+
         System.out.println("Here is a backslash \\");
 
     }
